@@ -1,4 +1,3 @@
-![CatTypingGIF](https://user-images.githubusercontent.com/56450870/125214059-2a49dc00-e2df-11eb-99b6-772c1f277dc3.gif)
 
 
 # simple-voice-prediction-using-MFCC-and-CNN
